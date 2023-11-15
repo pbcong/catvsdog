@@ -1,4 +1,5 @@
 #Cat vs Dog Classifier
+
 Welcome to the Cat vs Dog Classifier, a deep learning model designed to distinguish between images of cats and dogs. 
 
 I used the TensorFlow data pipeline for efficient loading and preprocessing of the dataset. 
