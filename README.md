@@ -1,4 +1,4 @@
-#Cat vs Dog Classifier
+#Cat_vs_Dog_Classifier
 
 Welcome to the Cat vs Dog Classifier, a deep learning model designed to distinguish between images of cats and dogs. 
 
