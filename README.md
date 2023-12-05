@@ -1,4 +1,4 @@
-#Cat_vs_Dog_Classifier
+# Cat_vs_Dog_Classifier
 
 A deep learning model designed to distinguish between images of cats and dogs. The h5 file for the trained model can be accessed [here](https://drive.google.com/file/d/1-Y7Z2-ClZQDPMfCvyj0sbDi3OGSKqbxG/view?usp=sharing)
 
